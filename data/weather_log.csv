@@ -1,0 +1,11 @@
+city,temperature,humidity,description,wind_speed,timestamp
+New York,25.4,60,clear sky,3.1,2025-07-19 09:00:00
+New York,26.7,55,few clouds,4.2,2025-07-19 12:00:00
+New York,27.9,58,scattered clouds,3.8,2025-07-19 15:00:00
+New York,24.5,65,light rain,2.4,2025-07-19 18:00:00
+New York,22.1,72,overcast clouds,2.0,2025-07-19 21:00:00
+New York,23.3,70,clear sky,2.7,2025-07-20 09:00:00
+New York,25.6,67,few clouds,3.5,2025-07-20 12:00:00
+New York,28.0,62,clear sky,4.1,2025-07-20 15:00:00
+New York,26.2,66,light rain,3.2,2025-07-20 18:00:00
+New York,21.7,74,broken clouds,2.1,2025-07-20 21:00:00
